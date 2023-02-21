@@ -4,11 +4,6 @@
 
 > Если что, зверь на аватарке - это Бабр
 
-<div id="link" align="center">
-  <a href="https://www.behance.net/8bb3f6d4" target="_blank">
-    <img height="40" src="https://cdn-images-1.medium.com/max/280/1*nwC9IhBwXNLV1JgwEgetQw.jpeg"/> Мои дизайны
-  </a>
-</div>
   
 ## Обо мне?
 - Около 3-х лет разрабатывал и руководил разработкой технических проектов в Топливно-Энергетической сфере.
@@ -43,10 +38,7 @@
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />&nbsp;
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" />&nbsp;
           
-          
-          
-
-
+        
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanevs22&layout=compact&theme=vision-friendly-default)](https://github.com/anuraghazra/github-readme-stats)
 
