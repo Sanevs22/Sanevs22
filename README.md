@@ -2,8 +2,9 @@
   ### Hi there 👋
 </div>
 
-<img src="https://avatars.githubusercontent.com/u/105701264?v=4" width="100"/>
-
+<span>
+<img src="https://avatars.githubusercontent.com/u/105701264?v=4" width="100"/> Это Бабр! 
+</span>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanevs22&layout=compact&theme=vision-friendly-default)](https://github.com/anuraghazra/github-readme-stats)
 
