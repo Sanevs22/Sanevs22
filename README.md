@@ -4,7 +4,12 @@
 
 > Если что, зверь на аватарке - это Бабр
 
-<img height="40" src="https://cdn-images-1.medium.com/max/280/1*nwC9IhBwXNLV1JgwEgetQw.jpeg"/>
+<div id="link" align="center">
+  <a href="https://www.behance.net/8bb3f6d4">
+    <img height="40" src="https://cdn-images-1.medium.com/max/280/1*nwC9IhBwXNLV1JgwEgetQw.jpeg"/>
+  </a>
+</div>
+  
 ## Обо мне?
 - Около 3-х лет разрабатывал и руководил разработкой технических проектов в Топливно-Энергетической сфере.
 - После стал мигрировать в IT-сферу. Работал в стартапе в качестве Project Manager. За это время изучил гибкие методологии проектной работы, познакомился с особенностями разработки цифровыми продуктов.
