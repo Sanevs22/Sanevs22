@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  # Hi there 👋
+  <h1> Hi there 👋 <h1>
 </div>
 
 > Если что, зверь на аватарке - это Бабр
