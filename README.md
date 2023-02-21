@@ -2,6 +2,9 @@
   ### Hi there 👋
 </div>
 
+  [https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://avatars.githubusercontent.com/u/105701264?v=4)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanevs22&layout=compact&theme=vision-friendly-default)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
