@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanevs22&layout=compact&theme=vision-friendly-default)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<div id="header" align="center">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanevs22&layout=compact&theme=vision-friendly-default)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 
 <!--
