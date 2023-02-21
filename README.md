@@ -5,7 +5,7 @@
 > Если что, зверь на аватарке - это Бабр
 
 <div id="link" align="center">
-  <a target="_blank" href="https://www.behance.net/8bb3f6d4">
+  <a href="https://www.behance.net/8bb3f6d4" target="_blank">
     <img height="40" src="https://cdn-images-1.medium.com/max/280/1*nwC9IhBwXNLV1JgwEgetQw.jpeg"/> Мои дизайны
   </a>
 </div>
